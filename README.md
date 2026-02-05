@@ -31,7 +31,6 @@ This project analyzes how Bitcoin market sentiment (Fear/Greed) influences trade
 ├── runtime.txt                      # Forces Python 3.11 on Streamlit Cloud
 ├── dashboard_merged.csv             # Data for dashboard
 ├── dashboard_accounts.csv           # Cluster data
-└── outputs/                         # Saved charts/plots
 ```
 
 ---
